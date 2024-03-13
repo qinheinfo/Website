@@ -1,5 +1,35 @@
 ---
-title: "Qin's website"
+title: "Qin He"
+about: 
+  template: jolla
+  id: block
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/qinheinfo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/qin-he
+    - icon: envelope
+      text: Email
+      href: "mailto:qin.he@mail.utoronto.ca"
 ---
 
-I am Qin, and I am a third year student at Bachelor of Information at University of Toronto.
+::: {#block}
+:::
+
+Hey! I'm Qin He. A multi-skilled Product designer with a foundation in visual design, dedicated to the refinement of digital products.
+
+**About Me**
+
+As a product designer, my journey is a blend of creativity, technology, and user-centric problem-solving. With a background in visual design and a keen eye for aesthetics, I've contributed to various projects that span multiple industries. My approach combines intuitive design principles with a deep understanding of user needs, driving me to craft digital experiences that are not only visually appealing but also highly functional and accessible.
+
+**Let's Connect**
+
+I'm always open to discussing new projects, opportunities, or simply exchanging ideas with fellow creatives. Feel free to reach out through any of the following channels:
+
+
+
+
+©Qin He. All Rights Reserved.
+

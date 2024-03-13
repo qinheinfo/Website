@@ -1,9 +1,22 @@
 ---
 title: "About"
+about: 
+  template: marquee
 ---
 
-About this site
+Based in Toronto, I am enthusiastic about technology and anything cute. 
 
-```{r}
-1 + 1
-```
+**Designer**
+As a UX designer with a background in graphic design, I've earned recognition, including the nomination award in the 8th China Illustration Biennial and the Hiiibrand Illustration Award over the past two years. My stint as a Creative Design Intern at @PayPal has broadened my perspective on commercializing graphic design. Guided by mentors and seniors, I transitioned to the field of UX design, where my passion continues to grow.
+
+**Thinker**
+I'm not just a designer with a problem-solving mindset and graphic skills; I also focus on the underlying reasons and product strategy. My dedication lies in achieving a delicate balance between stakeholders' interests, effective product positioning, and delivering an exceptional user experience.
+ 
+**Infinite learner**
+In addition to my focus on design, I am also curious about diverse realms of knowledge. Recognizing that design is intricately connected to data-driven decision-making, I am currently enrolled in data science and data analysis programs on Coursera and DataCamp.
+
+Eager to connect with people from different countries, I possess fluency in both English and Mandarin, complemented by proficiency in Japanese at an N2 level.  
+
+
+
+![](img/linkedin.jpeg "Qin He"){fig-align="center" width="300"}
